@@ -15,9 +15,14 @@ Response (JSON) :
     "Response": {
         "Result": "SUCCESS",
         "InventoryItems": {
+            "PageSummary": {
+                "PageCount": "1",
+                "PageNo": "1",
+                "NodeCount": "2"
+            },
             "Item": [
                 {
-                    "SystemUniqueID": "3",
+                    "SystemUniqueID": "9",
                     "ItemCode": "SKU001",
                     "ItemName": "ProductA",
                     "Description": "SKU001_ProductA",
@@ -27,7 +32,7 @@ Response (JSON) :
                     "IsActive": "TRUE"
                 },
                 {
-                    "SystemUniqueID": "4",
+                    "SystemUniqueID": "10",
                     "ItemCode": "SKU002",
                     "ItemName": "ProductB",
                     "Description": "SKU002_ProductB",
@@ -49,39 +54,31 @@ Request:
 Response (XML) :
 ----------------
 
-<Response>
-    <Result>SUCCESS</Result>
-    <InventoryItems>
-        <Item>
-            <SystemUniqueID>1</SystemUniqueID>
-            <ItemCode>SKU001</ItemCode>
-            <ItemName>ProductA</ItemName>
-            <Description>SKU001_ProductA</Description>
-            <SalePrice>1.000</SalePrice>
-            <MRP>300.000</MRP>
-            <Stock>500.000</Stock>
-            <IsActive>TRUE</IsActive>
-        </Item>
-        <Item>
-            <SystemUniqueID>7</SystemUniqueID>
-            <ItemCode>SKU002</ItemCode>
-            <ItemName>ProductB</ItemName>
-            <Description>SKU002_ProductB</Description>
-            <SalePrice>250.000</SalePrice>
-            <MRP>350.000</MRP>
-            <Stock>250.000</Stock>
-            <IsActive>TRUE</IsActive>
-        </Item>
-        <Item>
-            <SystemUniqueID>6</SystemUniqueID>
-            <ItemCode>SKU003</ItemCode>
-            <ItemName>ProductA</ItemName>
-            <Description>SKU001_ProductA</Description>
-            <SalePrice>100.000</SalePrice>
-            <MRP>200.000</MRP>
-            <Stock>500.000</Stock>
-            <IsActive>TRUE</IsActive>
-        </Item>
-    </InventoryItems>
-</Response>
+<InventoryItems>
+  <PageSummary>
+    <PageCount>1</PageCount>
+    <PageNo>1</PageNo>
+    <NodeCount>2</NodeCount>
+  </PageSummary>
+  <Item>
+    <SystemUniqueID>9</SystemUniqueID>
+    <ItemCode>SKU001</ItemCode>
+    <ItemName>ProductA</ItemName>
+    <Description>SKU001_ProductA</Description>
+    <SalePrice>100.000</SalePrice>
+    <MRP>200.000</MRP>
+    <Stock>500.000</Stock>
+    <IsActive>TRUE</IsActive>
+  </Item>
+  <Item>
+    <SystemUniqueID>10</SystemUniqueID>
+    <ItemCode>SKU002</ItemCode>
+    <ItemName>ProductB</ItemName>
+    <Description>SKU002_ProductB</Description>
+    <SalePrice>250.000</SalePrice>
+    <MRP>350.000</MRP>
+    <Stock>250.000</Stock>
+    <IsActive>TRUE</IsActive>
+  </Item>
+</InventoryItems>
 
