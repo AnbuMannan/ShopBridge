@@ -1,0 +1,87 @@
+List Items :
+---------------
+
+Request:
+--------
+
+Headers Section : 
+	SERVICE_METHODNAME = ViewItem
+
+
+Response (JSON) :
+----------------
+
+{
+    "Response": {
+        "Result": "SUCCESS",
+        "InventoryItems": {
+            "Item": [
+                {
+                    "SystemUniqueID": "3",
+                    "ItemCode": "SKU001",
+                    "ItemName": "ProductA",
+                    "Description": "SKU001_ProductA",
+                    "SalePrice": "100.000",
+                    "MRP": "200.000",
+                    "Stock": "500.000",
+                    "IsActive": "TRUE"
+                },
+                {
+                    "SystemUniqueID": "4",
+                    "ItemCode": "SKU002",
+                    "ItemName": "ProductB",
+                    "Description": "SKU002_ProductB",
+                    "SalePrice": "250.000",
+                    "MRP": "350.000",
+                    "Stock": "250.000",
+                    "IsActive": "TRUE"
+                }
+            ]
+        }
+    }
+}
+
+Request:
+--------
+
+
+
+Response (XML) :
+----------------
+
+<Response>
+    <Result>SUCCESS</Result>
+    <InventoryItems>
+        <Item>
+            <SystemUniqueID>1</SystemUniqueID>
+            <ItemCode>SKU001</ItemCode>
+            <ItemName>ProductA</ItemName>
+            <Description>SKU001_ProductA</Description>
+            <SalePrice>1.000</SalePrice>
+            <MRP>300.000</MRP>
+            <Stock>500.000</Stock>
+            <IsActive>TRUE</IsActive>
+        </Item>
+        <Item>
+            <SystemUniqueID>7</SystemUniqueID>
+            <ItemCode>SKU002</ItemCode>
+            <ItemName>ProductB</ItemName>
+            <Description>SKU002_ProductB</Description>
+            <SalePrice>250.000</SalePrice>
+            <MRP>350.000</MRP>
+            <Stock>250.000</Stock>
+            <IsActive>TRUE</IsActive>
+        </Item>
+        <Item>
+            <SystemUniqueID>6</SystemUniqueID>
+            <ItemCode>SKU003</ItemCode>
+            <ItemName>ProductA</ItemName>
+            <Description>SKU001_ProductA</Description>
+            <SalePrice>100.000</SalePrice>
+            <MRP>200.000</MRP>
+            <Stock>500.000</Stock>
+            <IsActive>TRUE</IsActive>
+        </Item>
+    </InventoryItems>
+</Response>
+

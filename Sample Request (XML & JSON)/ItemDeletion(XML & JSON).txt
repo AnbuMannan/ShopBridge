@@ -1,0 +1,60 @@
+Item Deletion :
+---------------
+
+Request (JSON) :
+---------------
+
+Headers Section : 
+	SERVICE_METHODNAME = DeleteItem
+
+Body Section :
+	
+{
+    "Request": {
+        "Items": [
+            {
+                "ItemCode": "SKU001"
+            },
+            {
+                "ItemCode": "SKU002"
+            }
+        ]
+    }
+}
+
+Response (JSON) :
+----------------
+
+{
+    "Response": {
+        "Result": "SUCCESS",
+        "StatusMessage": "Items Deleted Successfully"
+    }
+}
+
+Request (XML) :
+---------------
+
+Headers Section : 
+
+	SERVICE_METHODNAME = DeleteItem
+	
+Body Section :
+
+	<Request>
+		<Items>
+			<ItemCode>SKU001</ItemCode>
+		</Items>
+		<Items>
+			<ItemCode>SKU002</ItemCode>
+		</Items>
+	</Request>
+
+Response (XML) :
+----------------
+
+<Response>
+    <Result>SUCCESS</Result>
+    <StatusMessage>Items Deleted Successfully</StatusMessage>
+</Response>
+
