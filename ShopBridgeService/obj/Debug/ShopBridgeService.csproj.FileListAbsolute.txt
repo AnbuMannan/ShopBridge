@@ -1,5 +1,0 @@
-D:\Personal\Sample Projects\ShopBridgeService\ShopBridgeService\ShopBridgeService\bin\ShopBridgeService.dll
-D:\Personal\Sample Projects\ShopBridgeService\ShopBridgeService\ShopBridgeService\bin\ShopBridgeService.pdb
-D:\Personal\Sample Projects\ShopBridgeService\ShopBridgeService\ShopBridgeService\obj\Debug\ShopBridgeService.csprojResolveAssemblyReference.cache
-D:\Personal\Sample Projects\ShopBridgeService\ShopBridgeService\ShopBridgeService\obj\Debug\ShopBridgeService.dll
-D:\Personal\Sample Projects\ShopBridgeService\ShopBridgeService\ShopBridgeService\obj\Debug\ShopBridgeService.pdb
