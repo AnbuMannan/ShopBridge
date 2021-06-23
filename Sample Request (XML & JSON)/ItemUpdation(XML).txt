@@ -1,0 +1,40 @@
+Item Updation :
+---------------
+
+Request (XML) :
+---------------
+
+Headers Section : 
+	SERVICE_METHODNAME = UpdateItem
+	
+Body Section :
+
+<Request>
+    <Items>
+        <ItemCode>SKU001</ItemCode>
+        <ItemName>ProductA</ItemName>
+        <Description>SKU001_ProductA</Description>
+        <SalePrice>100</SalePrice>
+        <MRP>200</MRP>
+        <Stock>500</Stock>
+        <IsActive>TRUE</IsActive>
+    </Items>
+    <Items>
+        <ItemCode>SKU002</ItemCode>
+        <ItemName>ProductB</ItemName>
+        <Description>SKU002_ProductB</Description>
+        <SalePrice>250</SalePrice>
+        <MRP>350</MRP>
+        <Stock>250</Stock>
+        <IsActive>FALSE</IsActive>
+    </Items>
+</Request>
+
+Response (XML) :
+----------------
+
+<Response>
+    <Result>SUCCESS</Result>
+    <StatusMessage>Items Updated Successfully</StatusMessage>
+</Response>
+
