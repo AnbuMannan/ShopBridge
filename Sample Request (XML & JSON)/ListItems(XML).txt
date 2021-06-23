@@ -1,0 +1,40 @@
+List Items :
+---------------
+
+
+Request:
+--------
+
+
+
+Response (XML) :
+----------------
+
+<InventoryItems>
+  <PageSummary>
+    <PageCount>1</PageCount>
+    <PageNo>1</PageNo>
+    <NodeCount>2</NodeCount>
+  </PageSummary>
+  <Item>
+    <SystemUniqueID>9</SystemUniqueID>
+    <ItemCode>SKU001</ItemCode>
+    <ItemName>ProductA</ItemName>
+    <Description>SKU001_ProductA</Description>
+    <SalePrice>100.000</SalePrice>
+    <MRP>200.000</MRP>
+    <Stock>500.000</Stock>
+    <IsActive>TRUE</IsActive>
+  </Item>
+  <Item>
+    <SystemUniqueID>10</SystemUniqueID>
+    <ItemCode>SKU002</ItemCode>
+    <ItemName>ProductB</ItemName>
+    <Description>SKU002_ProductB</Description>
+    <SalePrice>250.000</SalePrice>
+    <MRP>350.000</MRP>
+    <Stock>250.000</Stock>
+    <IsActive>TRUE</IsActive>
+  </Item>
+</InventoryItems>
+
