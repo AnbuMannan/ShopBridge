@@ -1,0 +1,220 @@
+2021-06-23 14:37:01.3999|Request From Client>> 20210623 02:37:01:396 PM >> Process Data Started
+2021-06-23 14:37:01.6043|ConnectionString Verification >> 20210623 02:37:01:604 PM
+2021-06-23 14:37:02.7243|Connection Verified >> 20210623 02:37:02:724 PM
+2021-06-23 14:37:02.9786|Result.Error.Message>> 20210623 02:37:02:978 PM:Value cannot be null.
+Parameter name: stream
+2021-06-23 14:37:03.0345|ProcessData_Result:{"Response":{"Result":"FAILURE","FailureReason":"Value cannot be null.\r\nParameter name: stream"}}
+2021-06-23 14:37:21.3450|Request From Client>> 20210623 02:37:21:345 PM >> Process Data Started
+2021-06-23 14:37:21.3450|ConnectionString Verification >> 20210623 02:37:21:347 PM
+2021-06-23 14:37:21.3520|Connection Verified >> 20210623 02:37:21:352 PM
+2021-06-23 14:37:21.4577|Result.Error.Message>> 20210623 02:37:21:457 PM:Value cannot be null.
+Parameter name: stream
+2021-06-23 14:37:21.4577|ProcessData_Result:{"Response":{"Result":"FAILURE","FailureReason":"Value cannot be null.\r\nParameter name: stream"}}
+2021-06-23 14:40:00.2315|Request From Client>> 20210623 02:40:00:229 PM >> Process Data Started
+2021-06-23 14:40:00.3013|ConnectionString Verification >> 20210623 02:40:00:301 PM
+2021-06-23 14:40:01.2627|Connection Verified >> 20210623 02:40:01:261 PM
+2021-06-23 14:40:01.4642|Result.Error.Message>> 20210623 02:40:01:464 PM:Value cannot be null.
+Parameter name: stream
+2021-06-23 14:40:01.5290|ProcessData_Result:{"Response":{"Result":"FAILURE","FailureReason":"Value cannot be null.\r\nParameter name: stream"}}
+2021-06-23 14:40:21.9224|Request From Client>> 20210623 02:40:21:922 PM >> Process Data Started
+2021-06-23 14:40:21.9224|ConnectionString Verification >> 20210623 02:40:21:923 PM
+2021-06-23 14:40:21.9284|Connection Verified >> 20210623 02:40:21:928 PM
+2021-06-23 14:40:22.0052|Result.Error.Message>> 20210623 02:40:22:005 PM:Value cannot be null.
+Parameter name: stream
+2021-06-23 14:40:22.0052|ProcessData_Result:{"Response":{"Result":"FAILURE","FailureReason":"Value cannot be null.\r\nParameter name: stream"}}
+2021-06-23 14:42:37.8879|Request From Client>> 20210623 02:42:37:884 PM >> Process Data Started
+2021-06-23 14:42:37.9607|ConnectionString Verification >> 20210623 02:42:37:960 PM
+2021-06-23 14:42:38.6019|Connection Verified >> 20210623 02:42:38:601 PM
+2021-06-23 14:42:38.9241|Result.Error.Message>> 20210623 02:42:38:924 PM:Invalid input ! JSON dataValue cannot be null.
+Parameter name: value
+2021-06-23 14:42:39.0158|ProcessData_Result:{"Response":{"Result":"FAILURE","FailureReason":"Invalid input ! JSON dataValue cannot be null.\r\nParameter name: value"}}
+2021-06-23 14:44:30.9548|Request From Client>> 20210623 02:44:30:928 PM >> Process Data Started
+2021-06-23 14:44:31.0286|ConnectionString Verification >> 20210623 02:44:31:028 PM
+2021-06-23 14:44:31.8594|Connection Verified >> 20210623 02:44:31:859 PM
+2021-06-23 14:44:32.2363|Result.Error.Message>> 20210623 02:44:32:236 PM:Invalid input ! JSON dataValue cannot be null.
+Parameter name: value
+2021-06-23 14:44:32.3141|ProcessData_Result:{"Response":{"Result":"FAILURE","FailureReason":"Invalid input ! JSON dataValue cannot be null.\r\nParameter name: value"}}
+2021-06-23 15:32:08.7233|Request From Client>> 20210623 03:32:08:720 PM >> Process Data Started
+2021-06-23 15:32:08.8320|ConnectionString Verification >> 20210623 03:32:08:832 PM
+2021-06-23 15:32:10.0018|Connection Verified >> 20210623 03:32:10:001 PM
+2021-06-23 15:32:10.0018|Process Request Initiated>> 20210623 03:32:10:002 PM
+2021-06-23 15:32:10.0018|Request>> 20210623 03:32:10:004 PM; Method: CreateItem
+2021-06-23 15:32:10.0018|Request XML >> 
+2021-06-23 15:32:10.4845|ProcessData_Result:{"Response":{"Result":"FAILURE","FailureReason":"No Record to insert"}}
+2021-06-23 15:34:31.4413|Request From Client>> 20210623 03:34:31:439 PM >> Process Data Started
+2021-06-23 15:34:31.5211|ConnectionString Verification >> 20210623 03:34:31:521 PM
+2021-06-23 15:34:32.2980|Connection Verified >> 20210623 03:34:32:298 PM
+2021-06-23 15:34:32.2980|Process Request Initiated>> 20210623 03:34:32:298 PM
+2021-06-23 15:34:32.2980|Request>> 20210623 03:34:32:300 PM; Method: CreateItem
+2021-06-23 15:34:32.2980|Request XML >> 
+2021-06-23 15:34:32.6131|ProcessData_Result:<Response><Result>FAILURE</Result><FailureReason>No Record to insert</FailureReason></Response>
+2021-06-23 15:53:04.5186|Request From Client>> 20210623 03:53:04:515 PM >> Process Data Started
+2021-06-23 15:53:04.5834|ConnectionString Verification >> 20210623 03:53:04:583 PM
+2021-06-23 15:53:05.2676|Connection Verified >> 20210623 03:53:05:267 PM
+2021-06-23 15:53:05.2676|Process Request Initiated>> 20210623 03:53:05:268 PM
+2021-06-23 15:53:05.2676|Request>> 20210623 03:53:05:269 PM; Method: CreateItem
+2021-06-23 15:53:05.2676|Request XML >> 
+2021-06-23 15:53:05.5807|ProcessData_Result:<Response><Result>FAILURE</Result><FailureReason>No Record to insert</FailureReason></Response>
+2021-06-23 15:57:28.9523|Request From Client>> 20210623 03:57:28:950 PM >> Process Data Started
+2021-06-23 15:57:29.0570|ConnectionString Verification >> 20210623 03:57:29:057 PM
+2021-06-23 15:57:29.7701|Connection Verified >> 20210623 03:57:29:770 PM
+2021-06-23 15:57:29.7701|Process Request Initiated>> 20210623 03:57:29:771 PM
+2021-06-23 15:57:29.7701|Request>> 20210623 03:57:29:773 PM; Method: CreateItem
+2021-06-23 15:57:29.7701|Request XML >> 
+2021-06-23 15:57:30.1990|ProcessData_Result:<Response><Result>FAILURE</Result><FailureReason>No Record to insert</FailureReason></Response>
+2021-06-23 15:57:41.3291|Request From Client>> 20210623 03:57:41:329 PM >> Process Data Started
+2021-06-23 15:57:41.3291|ConnectionString Verification >> 20210623 03:57:41:330 PM
+2021-06-23 15:57:41.3550|Connection Verified >> 20210623 03:57:41:355 PM
+2021-06-23 15:57:41.3560|Process Request Initiated>> 20210623 03:57:41:356 PM
+2021-06-23 15:57:41.3560|Request>> 20210623 03:57:41:357 PM; Method: CreateItem
+2021-06-23 15:57:41.3560|Request XML >> 
+2021-06-23 15:57:41.5016|ProcessData_Result:<Response><Result>FAILURE</Result><FailureReason>No Record to insert</FailureReason></Response>
+2021-06-23 15:58:02.8519|Request From Client>> 20210623 03:58:02:851 PM >> Process Data Started
+2021-06-23 15:58:02.8519|ConnectionString Verification >> 20210623 03:58:02:853 PM
+2021-06-23 15:58:02.8519|Connection Verified >> 20210623 03:58:02:854 PM
+2021-06-23 15:59:55.7548|Request From Client>> 20210623 03:59:55:753 PM >> Process Data Started
+2021-06-23 15:59:55.8256|ConnectionString Verification >> 20210623 03:59:55:825 PM
+2021-06-23 15:59:56.8399|Connection Verified >> 20210623 03:59:56:839 PM
+2021-06-23 16:00:02.7692|Process Request Initiated>> 20210623 04:00:02:769 PM
+2021-06-23 16:00:02.7692|Request>> 20210623 04:00:02:772 PM; Method: CreateItem
+2021-06-23 16:00:02.7692|Request XML >> <Request><Items><ItemCode>SKU005</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100</SalePrice><MRP>200</MRP><Stock>500</Stock></Items><Items><ItemCode>SKU006</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250</SalePrice><MRP>350</MRP><Stock>250</Stock></Items></Request>
+2021-06-23 16:00:03.0615|ProcessData_Result:<Response><Result>SUCCESS</Result><StatusMessage>Items Created Successfully</StatusMessage></Response>
+2021-06-23 16:00:10.2677|Request From Client>> 20210623 04:00:10:267 PM >> Process Data Started
+2021-06-23 16:00:10.2677|ConnectionString Verification >> 20210623 04:00:10:269 PM
+2021-06-23 16:00:10.2677|Connection Verified >> 20210623 04:00:10:274 PM
+2021-06-23 16:00:10.2677|Process Request Initiated>> 20210623 04:00:10:275 PM
+2021-06-23 16:00:10.2677|Request>> 20210623 04:00:10:276 PM; Method: CreateItem
+2021-06-23 16:00:10.2782|Request XML >> <Request><Items><ItemCode>SKU005</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100</SalePrice><MRP>200</MRP><Stock>500</Stock></Items><Items><ItemCode>SKU006</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250</SalePrice><MRP>350</MRP><Stock>250</Stock></Items></Request>
+2021-06-23 16:00:10.3480|ProcessData_Result:<Response><Result>SUCCESS</Result><StatusMessage>All Items Already Available</StatusMessage></Response>
+2021-06-23 16:00:20.3924|Request From Client>> 20210623 04:00:20:392 PM >> Process Data Started
+2021-06-23 16:00:20.3924|ConnectionString Verification >> 20210623 04:00:20:393 PM
+2021-06-23 16:00:20.3924|Connection Verified >> 20210623 04:00:20:395 PM
+2021-06-23 16:00:20.3924|Process Request Initiated>> 20210623 04:00:20:397 PM
+2021-06-23 16:00:20.3924|Request>> 20210623 04:00:20:398 PM; Method: CreateItem
+2021-06-23 16:00:20.3924|Request XML >> <Request><Items><ItemCode>SKU005</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>1001w</SalePrice><MRP>200</MRP><Stock>500</Stock></Items><Items><ItemCode>SKU006</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250</SalePrice><MRP>350</MRP><Stock>250</Stock></Items></Request>
+2021-06-23 16:00:20.5699|ProcessData_Result:<Response><Result>FAILURE</Result><FailureReason>SalePrice should be numeric</FailureReason></Response>
+2021-06-23 16:00:24.9143|Request From Client>> 20210623 04:00:24:914 PM >> Process Data Started
+2021-06-23 16:00:24.9143|ConnectionString Verification >> 20210623 04:00:24:915 PM
+2021-06-23 16:00:24.9172|Connection Verified >> 20210623 04:00:24:917 PM
+2021-06-23 16:00:24.9172|Process Request Initiated>> 20210623 04:00:24:918 PM
+2021-06-23 16:00:24.9172|Request>> 20210623 04:00:24:920 PM; Method: CreateItem
+2021-06-23 16:00:24.9172|Request XML >> <Request><Items><ItemCode>SKU005</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100</SalePrice><MRP>200</MRP><Stock>500</Stock></Items><Items><ItemCode>SKU006</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250</SalePrice><MRP>350</MRP><Stock>250</Stock></Items></Request>
+2021-06-23 16:00:24.9980|ProcessData_Result:<Response><Result>SUCCESS</Result><StatusMessage>All Items Already Available</StatusMessage></Response>
+2021-06-23 16:08:10.9388|Request From Client>> 20210623 04:08:10:934 PM >> Process Data Started
+2021-06-23 16:08:11.0615|ConnectionString Verification >> 20210623 04:08:11:061 PM
+2021-06-23 16:08:11.9162|Connection Verified >> 20210623 04:08:11:916 PM
+2021-06-23 16:08:11.9162|Process Request Initiated>> 20210623 04:08:11:918 PM
+2021-06-23 16:08:11.9162|Request>> 20210623 04:08:11:919 PM; Method: CreateItem
+2021-06-23 16:08:11.9162|Request XML >> <Request><Items><ItemCode>SKU005</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100</SalePrice><MRP>200</MRP><Stock>500</Stock></Items><Items><ItemCode>SKU006</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250</SalePrice><MRP>350</MRP><Stock>250</Stock></Items></Request>
+2021-06-23 16:08:12.1745|ProcessData_Result:<Response><Result>SUCCESS</Result><StatusMessage>All Items Already Available</StatusMessage></Response>
+2021-06-23 16:08:15.6722|Request From Client>> 20210623 04:08:15:672 PM >> Process Data Started
+2021-06-23 16:08:15.6722|ConnectionString Verification >> 20210623 04:08:15:674 PM
+2021-06-23 16:08:15.6811|Connection Verified >> 20210623 04:08:15:681 PM
+2021-06-23 16:08:15.6811|Process Request Initiated>> 20210623 04:08:15:682 PM
+2021-06-23 16:08:15.6811|Request>> 20210623 04:08:15:684 PM; Method: UpdateItem
+2021-06-23 16:08:15.6811|Request XML >> <Request><Items><ItemCode>SKU001</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100</SalePrice><MRP>200</MRP><Stock>500</Stock><IsActive>TRUE</IsActive></Items><Items><ItemCode>SKU002</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250</SalePrice><MRP>350</MRP><Stock>250</Stock><IsActive>FALSE</IsActive></Items></Request>
+2021-06-23 16:08:15.7689|ProcessData_Result:<Response><Result>SUCCESS</Result><StatusMessage>Items Updated Successfully</StatusMessage></Response>
+2021-06-23 16:08:26.1760|Request From Client>> 20210623 04:08:26:176 PM >> Process Data Started
+2021-06-23 16:08:26.1760|ConnectionString Verification >> 20210623 04:08:26:178 PM
+2021-06-23 16:08:26.1760|Connection Verified >> 20210623 04:08:26:179 PM
+2021-06-23 16:08:26.1810|Process Request Initiated>> 20210623 04:08:26:181 PM
+2021-06-23 16:08:26.1810|Request>> 20210623 04:08:26:182 PM; Method: UpdateItem
+2021-06-23 16:08:26.1810|Request XML >> <Request><Items><ItemCode>SKU001</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100</SalePrice><MRP>200</MRP><Stock>500</Stock><IsActive>TRUE</IsActive></Items><Items><ItemCode>SKU0021</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250</SalePrice><MRP>350</MRP><Stock>250</Stock><IsActive>FALSE</IsActive></Items></Request>
+2021-06-23 16:08:26.2618|ProcessData_Result:<Response><Result>SUCCESS</Result><StatusMessage>Partially Updated and Few Items Not Available</StatusMessage></Response>
+2021-06-23 16:08:32.9798|Request From Client>> 20210623 04:08:32:979 PM >> Process Data Started
+2021-06-23 16:08:32.9798|ConnectionString Verification >> 20210623 04:08:32:981 PM
+2021-06-23 16:08:32.9798|Connection Verified >> 20210623 04:08:32:982 PM
+2021-06-23 16:08:32.9798|Process Request Initiated>> 20210623 04:08:32:984 PM
+2021-06-23 16:08:33.2082|Result.Error.Message>> 20210623 04:08:33:208 PM:ViewItemItem not configured
+2021-06-23 16:08:33.2082|ProcessData_Result:<Response><Result>FAILURE</Result><FailureReason>ViewItemItem not configured</FailureReason></Response>
+2021-06-23 16:10:18.7695|Request From Client>> 20210623 04:10:18:766 PM >> Process Data Started
+2021-06-23 16:10:18.8403|ConnectionString Verification >> 20210623 04:10:18:840 PM
+2021-06-23 16:10:19.5803|Connection Verified >> 20210623 04:10:19:580 PM
+2021-06-23 16:10:19.5803|Process Request Initiated>> 20210623 04:10:19:582 PM
+2021-06-23 16:10:19.5803|Request>> 20210623 04:10:19:583 PM; Method: ViewItem
+2021-06-23 16:10:19.5803|Request XML >> 
+2021-06-23 16:10:20.3851|ProcessData_Result:<Response><Result>SUCCESS</Result><InventoryItems><PageSummary><PageCount>1</PageCount><PageNo>1</PageNo><NodeCount>4</NodeCount></PageSummary><Item><SystemUniqueID>9</SystemUniqueID><ItemCode>SKU001</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100.000</SalePrice><MRP>200.000</MRP><Stock>500.000</Stock><IsActive>TRUE</IsActive></Item><Item><SystemUniqueID>10</SystemUniqueID><ItemCode>SKU002</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250.000</SalePrice><MRP>350.000</MRP><Stock>250.000</Stock><IsActive>FALSE</IsActive></Item><Item><SystemUniqueID>11</SystemUniqueID><ItemCode>SKU005</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100.000</SalePrice><MRP>200.000</MRP><Stock>500.000</Stock><IsActive>TRUE</IsActive></Item><Item><SystemUniqueID>12</SystemUniqueID><ItemCode>SKU006</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250.000</SalePrice><MRP>350.000</MRP><Stock>250.000</Stock><IsActive>TRUE</IsActive></Item></InventoryItems></Response>
+2021-06-23 16:13:49.6540|Request From Client>> 20210623 04:13:49:652 PM >> Process Data Started
+2021-06-23 16:13:49.7258|ConnectionString Verification >> 20210623 04:13:49:725 PM
+2021-06-23 16:13:50.4399|Connection Verified >> 20210623 04:13:50:438 PM
+2021-06-23 16:13:50.4399|Process Request Initiated>> 20210623 04:13:50:440 PM
+2021-06-23 16:13:50.4399|Request>> 20210623 04:13:50:441 PM; Method: ViewItem
+2021-06-23 16:13:50.4399|Request XML >> 
+2021-06-23 16:13:50.6643|ProcessData_Result:<Response><Result>SUCCESS</Result><InventoryItems><PageSummary><PageCount>1</PageCount><PageNo>1</PageNo><NodeCount>4</NodeCount></PageSummary><Item><SystemUniqueID>9</SystemUniqueID><ItemCode>SKU001</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100.000</SalePrice><MRP>200.000</MRP><Stock>500.000</Stock><IsActive>TRUE</IsActive></Item><Item><SystemUniqueID>10</SystemUniqueID><ItemCode>SKU002</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250.000</SalePrice><MRP>350.000</MRP><Stock>250.000</Stock><IsActive>FALSE</IsActive></Item><Item><SystemUniqueID>11</SystemUniqueID><ItemCode>SKU005</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100.000</SalePrice><MRP>200.000</MRP><Stock>500.000</Stock><IsActive>TRUE</IsActive></Item><Item><SystemUniqueID>12</SystemUniqueID><ItemCode>SKU006</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250.000</SalePrice><MRP>350.000</MRP><Stock>250.000</Stock><IsActive>TRUE</IsActive></Item></InventoryItems></Response>
+2021-06-23 16:13:53.1836|Request From Client>> 20210623 04:13:53:183 PM >> Process Data Started
+2021-06-23 16:13:53.1836|ConnectionString Verification >> 20210623 04:13:53:184 PM
+2021-06-23 16:13:53.1836|Connection Verified >> 20210623 04:13:53:189 PM
+2021-06-23 16:13:53.1836|Process Request Initiated>> 20210623 04:13:53:191 PM
+2021-06-23 16:13:53.1836|Request>> 20210623 04:13:53:192 PM; Method: DeleteItem
+2021-06-23 16:13:53.1936|Request XML >> <Request><Items><ItemCode>SKU001</ItemCode></Items><Items><ItemCode>SKU002</ItemCode></Items></Request>
+2021-06-23 16:13:53.3402|ProcessData_Result:<Response><Result>SUCCESS</Result><StatusMessage>Items Deleted Successfully</StatusMessage></Response>
+2021-06-23 16:13:59.5126|Request From Client>> 20210623 04:13:59:512 PM >> Process Data Started
+2021-06-23 16:13:59.5126|ConnectionString Verification >> 20210623 04:13:59:513 PM
+2021-06-23 16:13:59.5126|Connection Verified >> 20210623 04:13:59:514 PM
+2021-06-23 16:13:59.5126|Process Request Initiated>> 20210623 04:13:59:515 PM
+2021-06-23 16:13:59.5126|Request>> 20210623 04:13:59:516 PM; Method: ViewItem
+2021-06-23 16:13:59.5126|Request XML >> 
+2021-06-23 16:13:59.5834|ProcessData_Result:<Response><Result>SUCCESS</Result><InventoryItems><PageSummary><PageCount>1</PageCount><PageNo>1</PageNo><NodeCount>2</NodeCount></PageSummary><Item><SystemUniqueID>11</SystemUniqueID><ItemCode>SKU005</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100.000</SalePrice><MRP>200.000</MRP><Stock>500.000</Stock><IsActive>TRUE</IsActive></Item><Item><SystemUniqueID>12</SystemUniqueID><ItemCode>SKU006</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250.000</SalePrice><MRP>350.000</MRP><Stock>250.000</Stock><IsActive>TRUE</IsActive></Item></InventoryItems></Response>
+2021-06-23 16:14:02.4348|Request From Client>> 20210623 04:14:02:434 PM >> Process Data Started
+2021-06-23 16:14:02.4348|ConnectionString Verification >> 20210623 04:14:02:436 PM
+2021-06-23 16:14:02.4348|Connection Verified >> 20210623 04:14:02:437 PM
+2021-06-23 16:14:02.4348|Process Request Initiated>> 20210623 04:14:02:438 PM
+2021-06-23 16:14:02.4348|Request>> 20210623 04:14:02:439 PM; Method: UpdateItem
+2021-06-23 16:14:02.4348|Request XML >> <Request><Items><ItemCode>SKU001</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100</SalePrice><MRP>200</MRP><Stock>500</Stock><IsActive>TRUE</IsActive></Items><Items><ItemCode>SKU002</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250</SalePrice><MRP>350</MRP><Stock>250</Stock><IsActive>FALSE</IsActive></Items></Request>
+2021-06-23 16:14:02.7589|ProcessData_Result:<Response><Result>FAILURE</Result><FailureReason>Items Not Available</FailureReason></Response>
+2021-06-23 16:14:05.5106|Request From Client>> 20210623 04:14:05:510 PM >> Process Data Started
+2021-06-23 16:14:05.5106|ConnectionString Verification >> 20210623 04:14:05:511 PM
+2021-06-23 16:14:05.5106|Connection Verified >> 20210623 04:14:05:513 PM
+2021-06-23 16:14:05.5106|Process Request Initiated>> 20210623 04:14:05:514 PM
+2021-06-23 16:14:05.5106|Request>> 20210623 04:14:05:516 PM; Method: CreateItem
+2021-06-23 16:14:05.5106|Request XML >> <Request><Items><ItemCode>SKU005</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100</SalePrice><MRP>200</MRP><Stock>500</Stock></Items><Items><ItemCode>SKU006</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250</SalePrice><MRP>350</MRP><Stock>250</Stock></Items></Request>
+2021-06-23 16:14:05.6452|ProcessData_Result:<Response><Result>SUCCESS</Result><StatusMessage>All Items Already Available</StatusMessage></Response>
+2021-06-23 16:15:01.9523|Request From Client>> 20210623 04:15:01:952 PM >> Process Data Started
+2021-06-23 16:15:01.9523|ConnectionString Verification >> 20210623 04:15:01:953 PM
+2021-06-23 16:15:01.9523|Connection Verified >> 20210623 04:15:01:955 PM
+2021-06-23 16:15:01.9523|Process Request Initiated>> 20210623 04:15:01:956 PM
+2021-06-23 16:15:01.9523|Request>> 20210623 04:15:01:957 PM; Method: CreateItem
+2021-06-23 16:15:01.9523|Request XML >> <Request><Items><ItemCode>SKU006</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100</SalePrice><MRP>200</MRP><Stock>500</Stock></Items><Items><ItemCode>SKU007</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250</SalePrice><MRP>350</MRP><Stock>250</Stock></Items></Request>
+2021-06-23 16:15:02.0710|ProcessData_Result:<Response><Result>SUCCESS</Result><StatusMessage>Partially Created and Few Items Already Available</StatusMessage></Response>
+2021-06-23 16:15:16.1902|Request From Client>> 20210623 04:15:16:190 PM >> Process Data Started
+2021-06-23 16:15:16.1902|ConnectionString Verification >> 20210623 04:15:16:191 PM
+2021-06-23 16:15:16.1902|Connection Verified >> 20210623 04:15:16:192 PM
+2021-06-23 16:15:16.1942|Process Request Initiated>> 20210623 04:15:16:194 PM
+2021-06-23 16:15:16.1942|Request>> 20210623 04:15:16:196 PM; Method: CreateItem
+2021-06-23 16:15:16.1942|Request XML >> <Request><Items><ItemCode>SKU0010</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100</SalePrice><MRP>200</MRP><Stock>500</Stock></Items><Items><ItemCode>SKU0011</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250</SalePrice><MRP>350</MRP><Stock>250</Stock></Items></Request>
+2021-06-23 16:15:16.5771|ProcessData_Result:<Response><Result>SUCCESS</Result><StatusMessage>Items Created Successfully</StatusMessage></Response>
+2021-06-23 16:16:47.1867|Request From Client>> 20210623 04:16:47:186 PM >> Process Data Started
+2021-06-23 16:16:47.1867|ConnectionString Verification >> 20210623 04:16:47:187 PM
+2021-06-23 16:16:47.1867|Connection Verified >> 20210623 04:16:47:189 PM
+2021-06-23 16:16:47.1867|Process Request Initiated>> 20210623 04:16:47:190 PM
+2021-06-23 16:16:47.1867|Request>> 20210623 04:16:47:191 PM; Method: UpdateItem
+2021-06-23 16:16:47.1927|Request XML >> <Request><Items><ItemCode>SKU001</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100</SalePrice><MRP>200</MRP><Stock>500</Stock><IsActive>TRUE</IsActive></Items><Items><ItemCode>SKU002</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250</SalePrice><MRP>350</MRP><Stock>250</Stock><IsActive>FALSE</IsActive></Items></Request>
+2021-06-23 16:16:47.4290|ProcessData_Result:<Response><Result>FAILURE</Result><FailureReason>Items Not Available</FailureReason></Response>
+2021-06-23 16:16:55.8415|Request From Client>> 20210623 04:16:55:841 PM >> Process Data Started
+2021-06-23 16:16:55.8415|ConnectionString Verification >> 20210623 04:16:55:842 PM
+2021-06-23 16:16:55.8415|Connection Verified >> 20210623 04:16:55:844 PM
+2021-06-23 16:16:55.8415|Process Request Initiated>> 20210623 04:16:55:845 PM
+2021-06-23 16:16:55.8415|Request>> 20210623 04:16:55:847 PM; Method: UpdateItem
+2021-06-23 16:16:55.8415|Request XML >> <Request><Items><ItemCode>SKU003</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100</SalePrice><MRP>200</MRP><Stock>500</Stock><IsActive>TRUE</IsActive></Items><Items><ItemCode>SKU004</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250</SalePrice><MRP>350</MRP><Stock>250</Stock><IsActive>FALSE</IsActive></Items></Request>
+2021-06-23 16:16:56.0330|ProcessData_Result:<Response><Result>FAILURE</Result><FailureReason>Items Not Available</FailureReason></Response>
+2021-06-23 16:17:05.6153|Request From Client>> 20210623 04:17:05:615 PM >> Process Data Started
+2021-06-23 16:17:05.6153|ConnectionString Verification >> 20210623 04:17:05:616 PM
+2021-06-23 16:17:05.6153|Connection Verified >> 20210623 04:17:05:618 PM
+2021-06-23 16:17:05.6153|Process Request Initiated>> 20210623 04:17:05:619 PM
+2021-06-23 16:17:05.6153|Request>> 20210623 04:17:05:621 PM; Method: UpdateItem
+2021-06-23 16:17:05.6153|Request XML >> <Request><Items><ItemCode>SKU010</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100</SalePrice><MRP>200</MRP><Stock>500</Stock><IsActive>TRUE</IsActive></Items><Items><ItemCode>SKU011</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250</SalePrice><MRP>350</MRP><Stock>250</Stock><IsActive>FALSE</IsActive></Items></Request>
+2021-06-23 16:17:05.7968|ProcessData_Result:<Response><Result>FAILURE</Result><FailureReason>Items Not Available</FailureReason></Response>
+2021-06-23 16:18:33.9911|Request From Client>> 20210623 04:18:33:991 PM >> Process Data Started
+2021-06-23 16:18:33.9911|ConnectionString Verification >> 20210623 04:18:33:992 PM
+2021-06-23 16:18:33.9911|Connection Verified >> 20210623 04:18:33:994 PM
+2021-06-23 16:18:33.9911|Process Request Initiated>> 20210623 04:18:33:995 PM
+2021-06-23 16:18:33.9911|Request>> 20210623 04:18:33:997 PM; Method: UpdateItem
+2021-06-23 16:18:33.9911|Request XML >> <Request><Items><ItemCode>SKU0010</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100</SalePrice><MRP>200</MRP><Stock>500</Stock><IsActive>TRUE</IsActive></Items><Items><ItemCode>SKU0011</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250</SalePrice><MRP>350</MRP><Stock>250</Stock><IsActive>FALSE</IsActive></Items></Request>
+2021-06-23 16:18:34.1357|ProcessData_Result:<Response><Result>SUCCESS</Result><StatusMessage>Items Updated Successfully</StatusMessage></Response>
+2021-06-23 16:25:02.9811|Request From Client>> 20210623 04:25:02:979 PM >> Process Data Started
+2021-06-23 16:25:03.0669|ConnectionString Verification >> 20210623 04:25:03:066 PM
+2021-06-23 16:25:03.7790|Connection Verified >> 20210623 04:25:03:779 PM
+2021-06-23 16:25:03.7790|Process Request Initiated>> 20210623 04:25:03:781 PM
+2021-06-23 16:25:03.7790|Request>> 20210623 04:25:03:782 PM; Method: ViewItem
+2021-06-23 16:25:03.7790|Request XML >> 
+2021-06-23 16:25:03.9864|ProcessData_Result:<Response><Result>SUCCESS</Result><InventoryItems><PageSummary><PageCount>1</PageCount><PageNo>1</PageNo><NodeCount>5</NodeCount></PageSummary><Item><SystemUniqueID>11</SystemUniqueID><ItemCode>SKU005</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100.000</SalePrice><MRP>200.000</MRP><Stock>500.000</Stock><IsActive>TRUE</IsActive></Item><Item><SystemUniqueID>12</SystemUniqueID><ItemCode>SKU006</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250.000</SalePrice><MRP>350.000</MRP><Stock>250.000</Stock><IsActive>TRUE</IsActive></Item><Item><SystemUniqueID>13</SystemUniqueID><ItemCode>SKU007</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250.000</SalePrice><MRP>350.000</MRP><Stock>250.000</Stock><IsActive>TRUE</IsActive></Item><Item><SystemUniqueID>14</SystemUniqueID><ItemCode>SKU0010</ItemCode><ItemName>ProductA</ItemName><Description>SKU001_ProductA</Description><SalePrice>100.000</SalePrice><MRP>200.000</MRP><Stock>500.000</Stock><IsActive>TRUE</IsActive></Item><Item><SystemUniqueID>15</SystemUniqueID><ItemCode>SKU0011</ItemCode><ItemName>ProductB</ItemName><Description>SKU002_ProductB</Description><SalePrice>250.000</SalePrice><MRP>350.000</MRP><Stock>250.000</Stock><IsActive>FALSE</IsActive></Item></InventoryItems></Response>
